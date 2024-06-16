@@ -1,0 +1,5 @@
+/node_modules
+
+# this rule matches outside
+# you can see `Users/knipuser/cicd/builds` is not being git-ignored.
+builds/
